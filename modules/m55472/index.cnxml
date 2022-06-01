@@ -1,0 +1,62 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+
+<title>The Building Blocks of Molecules EnBio</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m55472</md:content-id>
+  <md:title>The Building Blocks of Molecules EnBio</md:title>
+  <md:abstract/>
+  <md:uuid>f3264d0a-e766-496a-a840-ed1c96d736c3</md:uuid>
+</metadata>
+
+<content>
+<para id="fs-idm42280608">At its most fundamental level, life is made up of matter. <term>Matter</term> occupies space and has mass. All matter is composed of <term>elements</term>, substances that cannot be broken down or transformed chemically into other substances. Each element is made of one type of atoms.</para><para id="fs-idp2759584">Each element is designated by its chemical symbol (such as H, N, O, C, and Na), and possesses unique properties. These unique properties allow elements to combine and to bond with each other in specific ways.</para>
+<section id="fs-idm9670272">
+<title>Atoms</title>
+<para id="fs-idp27395136">An atom is the smallest component of an element that retains all of the chemical properties of that element. For example, one hydrogen atom has all of the properties of the element hydrogen, such as it exists as a gas at room temperature, and it bonds with oxygen to create a water molecule. Hydrogen atoms cannot be broken down into anything smaller while still retaining the properties of hydrogen. If a hydrogen atom were broken down into subatomic particles, it would no longer have the properties of hydrogen.</para>
+<para id="fs-idp64859728">At the most basic level, all organisms are made of a combination of elements. They contain atoms that combine together to form molecules. In multicellular organisms, such as animals, molecules can interact to form cells that combine to form tissues, which make up organs. These combinations continue until entire multicellular organisms are formed.</para><note id="fs-idm32005744" class="art-connection non-majors"><label/><title>Art Connection</title>
+<figure id="fig-ch02_01_02" class="  "><media id="fs-idm39723088" alt="Periodic table of elements.">
+<image mime-type="image/jpg" src="../../media/Figure_02_01_02.png" width="550"/>
+</media>
+<caption>Arranged in columns and rows based on the characteristics of the elements, the periodic table provides key information about the elements and how they might interact with each other to form molecules. Most periodic tables provide a key or legend to the information they contain.</caption></figure></note></section>
+<section id="fs-idp98334368">
+<section id="fs-idp15525888">
+<para id="fs-idp152562192">There are two types of bonds that hold atoms together; polar and non-polar. Non-polar bonds form non-polar molecules with no charge on them, like carbon with carbon or carbon with hydrogen. Polar bonds form polar molecules with a partial charge, either positive or negative.</para><figure id="fig-ch02_01_05"><media id="fs-idm14235616" alt="Diagram depicting polar and nonpolar covalent bonds">
+<image mime-type="image/jpg" src="../../media/Figure_02_01_05new.jpg" width="500"/>
+</media>
+<caption>The water molecule (left) depicts a polar bond with a slightly positive charge on the hydrogen atoms and a slightly negative charge on the oxygen. Examples of nonpolar bonds include methane (middle) and oxygen (right).</caption></figure></section>
+<section id="fs-idp17526848">
+<title>Hydrogen Bonds</title>
+<figure id="fig-ch02_01_06"><media id="fs-idm39388080" alt="Diagram showing hydrogen bonds formed between adjacent water molecules.">
+<image mime-type="image/jpg" src="../../media/Figure_02_01_06.jpg" width="350"/>
+</media>
+<caption>Hydrogen bonds form between slightly positive (<emphasis effect="italics">δ</emphasis>+) and slightly negative (<emphasis effect="italics">δ</emphasis>–) charges of polar covalent molecules, such as water.</caption></figure><para id="fs-idm54714080">Hydrogen bonds can form between different molecules and they do not always have to include a water molecule. Hydrogen atoms in polar bonds within any molecule can form bonds with other adjacent molecules. For example, hydrogen bonds hold together two long strands of DNA to give the DNA molecule its characteristic double-stranded structure. Hydrogen bonds are also responsible for some of the three-dimensional structure of proteins.</para></section>
+</section>
+<section id="fs-idm55411712" class="summary">
+<title>Section Summary</title><para id="fs-idm116602704">Matter is anything that occupies space and has mass. It is made up of atoms of different elements. All of the 92 elements that occur naturally have unique qualities that allow them to combine in various ways to create compounds or molecules. Atoms, which consist of protons, neutrons, and electrons, are the smallest units of an element that retain all of the properties of that element. </para></section>
+</content>
+<glossary>
+<definition id="fs-idm60872624"><term>anion</term> <meaning id="fs-idp22405792">a negative ion formed by gaining electrons</meaning></definition>
+<definition id="fs-idp22885904"><term>atomic number</term> <meaning id="fs-idp16477808"> the number of protons in an atom</meaning></definition>
+<definition id="fs-idm2379152"><term>cation</term> <meaning id="fs-idm17028560">a positive ion formed by losing electrons</meaning></definition>
+<definition id="fs-idp11043856"><term>chemical bond</term> <meaning id="fs-idp27431104">an interaction between two or more of the same or different elements that results in the formation of molecules</meaning></definition>
+<definition id="fs-idp22394320"><term>covalent bond</term> <meaning id="fs-idm32805872">a type of strong bond between two or more of the same or different elements; forms when electrons are shared between elements</meaning></definition>
+<definition id="fs-idp117370208"><term>electron</term> <meaning id="fs-idp10483728">a negatively charged particle that resides outside of the nucleus in the electron orbital; lacks functional mass and has a charge of –1</meaning></definition>
+<definition id="fs-idp13081456"><term>electron transfer</term> <meaning id="fs-idp72078672">the movement of electrons from one element to another</meaning></definition>
+<definition id="fs-idm51347552"><term>element</term> <meaning id="fs-idm32899504">one of 118 unique substances that cannot be broken down into smaller substances and retain the characteristic of that substance; each element has a specified number of protons and unique properties</meaning></definition>
+<definition id="fs-idp357520"><term>hydrogen bond</term> <meaning id="fs-idp19324272">a weak bond between partially positively charged hydrogen atoms and partially negatively charged elements or molecules</meaning></definition>
+<definition id="fs-idp58362608"><term>ion</term> <meaning id="fs-idm10620240">an atom or compound that does not contain equal numbers of protons and electrons, and therefore has a net charge</meaning></definition>
+<definition id="fs-idp7410448"><term>ionic bond</term> <meaning id="fs-idm47020144">a chemical bond that forms between ions of opposite charges</meaning></definition>
+<definition id="fs-idm9505616"><term>isotope</term> <meaning id="fs-idm55811808">one or more forms of an element that have different numbers of neutrons</meaning></definition>
+<definition id="fs-idp29804608"><term>mass number</term> <meaning id="fs-idp94945136">the number of protons plus neutrons in an atom</meaning></definition>
+<definition id="fs-idm44691856"><term>matter</term> <meaning id="fs-idm2490608">anything that has mass and occupies space</meaning></definition>
+<definition id="fs-idm8076256"><term>neutron</term> <meaning id="fs-idm5995280">a particle with no charge that resides in the nucleus of an atom; has a mass of 1</meaning></definition>
+<definition id="fs-idm4889968"><term>nonpolar covalent bond</term> <meaning id="fs-idp34629632">a type of covalent bond that forms between atoms when electrons are shared equally between atoms, resulting in no regions with partial charges as in polar covalent bonds</meaning></definition>
+<definition id="fs-idm32298000"><term>nucleus</term> <meaning id="fs-idm14532496">(chemistry) the dense center of an atom made up of protons and (except in the case of a hydrogen atom) neutrons</meaning></definition>
+<definition id="fs-idm43048880"><term>octet rule</term> <meaning id="fs-idp17973120">states that the outermost shell of an element with a low atomic number can hold eight electrons</meaning></definition>
+<definition id="fs-idm32222816"><term>periodic table of elements</term> <meaning id="fs-idm34366928">an organizational chart of elements, indicating the atomic number and mass number of each element; also provides key information about the properties of elements</meaning></definition>
+<definition id="fs-idp6653712"><term>polar covalent bond</term> <meaning id="fs-idp1546800">a type of covalent bond in which electrons are pulled toward one atom and away from another, resulting in slightly positive and slightly negative charged regions of the molecule</meaning></definition>
+<definition id="fs-idm16691264"><term>proton</term> <meaning id="fs-idm37315168">a positively charged particle that resides in the nucleus of an atom; has a mass of 1 and a charge of +1</meaning></definition>
+<definition id="fs-idp94539088"><term>radioactive isotope</term> <meaning id="fs-idp21768064">an isotope that spontaneously emits particles or energy to form a more stable element</meaning></definition>
+<definition id="fs-idp1535744"><term>van der Waals interaction</term> <meaning id="fs-idm2109616">a weak attraction or interaction between molecules caused by slightly positively charged or slightly negatively charged atoms</meaning></definition>
+</glossary>
+</document>

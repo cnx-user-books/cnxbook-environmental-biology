@@ -1,0 +1,30 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+
+<title>The Cell Membrane EnBio</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m55552</md:content-id>
+  <md:title>The Cell Membrane EnBio</md:title>
+  <md:abstract>By the end of this section, you will be able to:
+<list>
+<item>Understand the fluid mosaic model of membranes</item>
+</list></md:abstract>
+  <md:uuid>5c1cda0b-07cb-485c-8c28-3e587e04dae3</md:uuid>
+</metadata>
+
+<content>
+<para id="fs-idp112160224">A cell’s plasma membrane defines the boundary of the cell and determines the nature of its contact with the environment. Cells exclude some substances, take in others, and excrete still others, all in controlled quantities. Plasma membranes enclose the borders of cells, but rather than being a static bag, they are dynamic and constantly in flux. </para><section id="fs-idp98596400">
+<title>Fluid Mosaic Model</title>
+<para id="fs-idp36394320">In 1972, S. J. Singer and Garth L. Nicolson proposed a new model of the plasma membrane that, compared to earlier understanding, better explained both microscopic observations and the function of the plasma membrane. This was called the <term>fluid mosaic model</term>. The model has evolved somewhat over time, but still best accounts for the structure and functions of the plasma membrane as we now understand them. The fluid mosaic model describes the structure of the plasma membrane as a mosaic of components—including phospholipids, cholesterol, proteins, and carbohydrates—in which the components are able to flow and change position, while maintaining the basic integrity of the membrane. </para><figure id="fig-ch03_04_01" class="  "><media id="fs-idm44156256" alt="Illustration of components of the plasma membrane, including integral and peripheral proteins, cytoskeletal filaments, cholesterol, carbohydrates, and channels">
+<image mime-type="image/jpg" src="../../media/Figure_03_04_01.jpg" width="450"/>
+</media>
+
+<caption>The fluid mosaic model of the plasma membrane structure describes the plasma membrane as a fluid combination of phospholipids, cholesterol, proteins, and carbohydrates.</caption></figure><para id="fs-idm64781472">The plasma membrane is made up primarily of a bilayer of phospholipids with embedded proteins, carbohydrates, glycolipids, and glycoproteins, and, in animal cells, cholesterol. The amount of cholesterol in animal plasma membranes regulates the fluidity of the membrane and changes based on the temperature of the cell’s environment. In other words, cholesterol acts as antifreeze in the cell membrane and is more abundant in animals that live in cold climates.</para>
+<para id="fs-idm87723328">The main fabric of the membrane is composed of two layers of phospholipid molecules, and the polar ends of these molecules (which look like a collection of balls in an artist’s rendition of the model) (<link target-id="fig-ch03_04_01" document=""/>) are in contact with aqueous fluid both inside and outside the cell. Thus, both surfaces of the plasma membrane are hydrophilic. In contrast, the interior of the membrane, between its two surfaces, is a hydrophobic or nonpolar region because of the fatty acid tails. This region has no attraction for water or other polar molecules.</para>
+</section>
+</content>
+<glossary>
+<definition id="fs-idm74532832">
+<term>fluid mosaic model</term> <meaning id="fs-idm87571008"> a model of the structure of the plasma membrane as a mosaic of components, including phospholipids, cholesterol, proteins, and glycolipids, resulting in a fluid rather than static character</meaning>
+</definition>
+</glossary>
+</document>

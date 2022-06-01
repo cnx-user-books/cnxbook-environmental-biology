@@ -1,0 +1,58 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+
+<title>The Cell Cycle EnBio</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m55567</md:content-id>
+  <md:title>The Cell Cycle EnBio</md:title>
+  <md:abstract>By the end of this section, you will be able to:
+<list>
+<item>Describe the three stages of interphase</item>
+<item>Discuss the behavior of chromosomes during mitosis and how the cytoplasmic content divides during cytokinesis</item>
+<item>Define the quiescent G<sub>0</sub> phase</item>
+</list></md:abstract>
+  <md:uuid>fe96e1d7-eed5-4c15-8472-ac8f937f13fb</md:uuid>
+</metadata>
+
+<content>
+<para id="fs-id2017945">The <term>cell cycle</term> is an ordered series of events involving cell growth and cell division that produces two new daughter cells. Cells on the path to cell division proceed through a series of precisely timed and carefully regulated stages of growth, DNA replication, and division that produce two genetically identical cells. The cell cycle has two major phases: interphase and the mitotic phase (<link target-id="fig-ch06_02_01" document=""/>). During <term>interphase</term>, the cell grows and DNA is replicated. During the <term>mitotic</term> <term>phase</term>, the replicated DNA and cytoplasmic contents are separated and the cell divides.
+
+Watch this video about the cell cycle: <link url="https://www.youtube.com/watch?v=Wy3N5NCZBHQ">https://www.youtube.com/watch?v=Wy3N5NCZBHQ</link></para><figure id="fig-ch06_02_01"><media id="fs-id2066349" alt="This illustration shows the cell cycle, which consists of interphase and the mitotic phase. Interphase is subdivided into G1, S, and G2 phases. Cell growth occurs during G1 and G2, and DNA synthesis occurs during S. The mitotic phase consists of mitosis, in which the nuclear chromatin is divided, and cytokinesis, in which the cytoplasm is divided resulting in two daughter cells.">
+<image mime-type="image/jpg" src="../../media/Figure_06_02_01.jpg" width="500"/>
+</media>
+
+<caption>A cell moves through a series of phases in an orderly manner. During interphase, G<sub>1</sub> involves cell growth and protein synthesis, the S phase involves DNA replication and the replication of the centrosome, and G<sub>2</sub> involves further growth and protein synthesis. The mitotic phase follows interphase. Mitosis is nuclear division during which duplicated chromosomes are segregated and distributed into daughter nuclei. Usually the cell will divide after mitosis in a process called cytokinesis in which the cytoplasm is divided and two daughter cells are formed.</caption></figure><section id="fs-id3138185">
+<title>The Mitotic Phase</title>
+<para id="fs-id2310725">To make two daughter cells, the contents of the nucleus and the cytoplasm must be divided. The mitotic phase is a multistep process during which the duplicated chromosomes are aligned, separated, and moved to opposite poles of the cell, and then the cell is divided into two new identical daughter cells. The first portion of the mitotic phase, <term>mitosis</term>, is composed of five stages, which accomplish nuclear division. The second portion of the mitotic phase, called cytokinesis, is the physical separation of the cytoplasmic components into two daughter cells.</para>
+
+</section>
+
+<section id="fs-id1966620" class="summary"> <title>Section Summary</title><para id="fs-id2216071">The cell cycle is an orderly sequence of events. Cells on the path to cell division proceed through a series of precisely timed and carefully regulated stages. In eukaryotes, the cell cycle consists of a long preparatory period, called interphase. Interphase is divided into G<sub>1</sub>, S, and G<sub>2</sub> phases. Mitosis consists of five stages: prophase, prometaphase, metaphase, anaphase, and telophase. Mitosis is usually accompanied by cytokinesis, during which the cytoplasmic components of the daughter cells are separated either by an actin ring (animal cells) or by cell plate formation (plant cells).</para>
+</section>
+</content>
+
+<glossary>
+<definition id="fs-id2939051"><term>anaphase</term> <meaning id="fs-id2078111">the stage of mitosis during which sister chromatids are separated from each other</meaning></definition>
+<definition id="fs-id3274533"><term>cell cycle</term> <meaning id="fs-id1705382">the ordered sequence of events that a cell passes through between one cell division and the next</meaning></definition>
+<definition id="fs-id842561"><term>cell cycle checkpoints</term> <meaning id="fs-id2248536">mechanisms that monitor the preparedness of a eukaryotic cell to advance through the various cell cycle stages</meaning></definition>
+<definition id="fs-id2592163"><term>cell plate</term> <meaning id="fs-id2072729">a structure formed during plant-cell cytokinesis by Golgi vesicles fusing at the metaphase plate; will ultimately lead to formation of a cell wall to separate the two daughter cells</meaning></definition>
+<definition id="fs-id2078270"><term>centriole</term> <meaning id="fs-id2046143">a paired rod-like structure constructed of microtubules at the center of each animal cell centrosome</meaning></definition>
+<definition id="fs-id2046146"><term>cleavage furrow</term> <meaning id="fs-id3299535">a constriction formed by the actin ring during animal-cell cytokinesis that leads to cytoplasmic division</meaning></definition>
+<definition id="fs-id2274964"><term>cytokinesis</term> <meaning id="fs-id2121183">the division of the cytoplasm following mitosis to form two daughter cells</meaning></definition>
+<definition id="fs-id3191407"><term>G<sub>0 </sub>phase</term> <meaning id="fs-id3319189">a cell-cycle phase distinct from the G<sub>1</sub> phase of interphase; a cell in G<sub>0</sub> is not preparing to divide</meaning></definition>
+<definition id="fs-id1703129"><term>G<sub>1</sub> phase</term> <meaning id="fs-id1909346">(also, first gap) a cell-cycle phase; first phase of interphase centered on cell growth during mitosis</meaning></definition>
+<definition id="fs-id3193871"><term>G<sub>2</sub> phase</term> <meaning id="fs-id2316144">(also, second gap) a cell-cycle phase; third phase of interphase where the cell undergoes the final preparations for mitosis</meaning></definition>
+<definition id="fs-id1518897"><term>interphase</term> <meaning id="fs-id2198506">the period of the cell cycle leading up to mitosis; includes G<sub>1</sub>, S, and G<sub>2</sub> phases; the interim between two consecutive cell divisions</meaning></definition>
+<definition id="fs-id2333094"><term>kinetochore</term> <meaning id="fs-id2333099">a protein structure in the centromere of each sister chromatid that attracts and binds spindle microtubules during prometaphase</meaning></definition>
+<definition id="fs-id2574913"><term>metaphase plate</term> <meaning id="fs-id1766240">the equatorial plane midway between two poles of a cell where the chromosomes align during metaphase</meaning></definition>
+<definition id="fs-id1851025"><term>metaphase</term> <meaning id="fs-id3019605">the stage of mitosis during which chromosomes are lined up at the metaphase plate</meaning></definition>
+<definition id="fs-id3019608"><term>mitosis</term> <meaning id="fs-id2227894">the period of the cell cycle at which the duplicated chromosomes are separated into identical nuclei; includes prophase, prometaphase, metaphase, anaphase, and telophase</meaning></definition>
+<definition id="fs-id2021368"><term>mitotic phase</term> <meaning id="fs-id2309555">the period of the cell cycle when duplicated chromosomes are distributed into two nuclei and the cytoplasmic contents are divided; includes mitosis and cytokinesis</meaning></definition>
+<definition id="fs-id2655461"><term>mitotic spindle</term> <meaning id="fs-id2425621">the microtubule apparatus that orchestrates the movement of chromosomes during mitosis</meaning></definition>
+<definition id="fs-id2425624"><term>prometaphase</term> <meaning id="fs-id2255052">the stage of mitosis during which mitotic spindle fibers attach to kinetochores</meaning></definition>
+<definition id="fs-id2937746"><term>prophase</term> <meaning id="fs-id2937751">the stage of mitosis during which chromosomes condense and the mitotic spindle begins to form</meaning></definition>
+<definition id="fs-id2169031"><term>quiescent</term> <meaning id="fs-id1985982">describes a cell that is performing normal cell functions and has not initiated preparations for cell division</meaning></definition>
+<definition id="fs-id1985987"><term>S phase</term> <meaning id="fs-id2910977">the second, or synthesis phase, of interphase during which DNA replication occurs</meaning></definition>
+<definition id="fs-id1626985"><term>telophase</term> <meaning id="fs-id1626989">the stage of mitosis during which chromosomes arrive at opposite poles, decondense, and are surrounded by new nuclear envelopes</meaning></definition>
+</glossary>
+
+</document>

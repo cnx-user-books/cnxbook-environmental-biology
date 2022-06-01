@@ -1,0 +1,32 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+
+<title>Prokaryotic Cell Division EnBio</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m55568</md:content-id>
+  <md:title>Prokaryotic Cell Division EnBio</md:title>
+  <md:abstract>By the end of this section, you will be able to:
+<list>
+<item>Describe the process of binary fission in prokaryotes</item>
+</list></md:abstract>
+  <md:uuid>d3476b0d-d9e5-4759-9cf7-3683446e7ad0</md:uuid>
+</metadata>
+
+<content>
+<para id="fs-id1066558">Prokaryotes such as bacteria propagate by binary fission. For unicellular organisms, cell division is the only method to produce new individuals. In both prokaryotic and eukaryotic cells, the outcome of cell reproduction is a pair of daughter cells that are genetically identical to the parent cell. In unicellular organisms, daughter cells are individuals.</para>
+<section id="fs-id988625">
+<title>Binary Fission</title>
+<para id="fs-id1666738">The cell division process of prokaryotes, called <term>binary fission</term>, is a less complicated and much quicker process than cell division in eukaryotes. Because of the speed of bacterial cell division, populations of bacteria can grow very rapidly.</para></section>
+
+<section id="fs-id1287083" class="summary"> <title>Section Summary</title><para id="fs-id2144541">In both prokaryotic and eukaryotic cell division, the genomic DNA is replicated and each copy is allocated into a daughter cell. The cytoplasmic contents are also divided evenly to the new cells. However, there are many differences between prokaryotic and eukaryotic cell division. </para></section>
+
+</content>
+
+<glossary>
+<definition id="fs-id1727810"><term>binary fission</term> <meaning id="fs-id1965659">the process of prokaryotic cell division</meaning></definition>
+<definition id="fs-id2150402"><term>FtsZ</term> <meaning id="fs-id2025386">a tubulin-like protein component of the prokaryotic cytoskeleton that is important in prokaryotic cytokinesis (name origin: <emphasis effect="bold">F</emphasis>ilamenting <emphasis effect="bold">t</emphasis>emperature-<emphasis effect="bold">s</emphasis>ensitive mutant <emphasis effect="bold">Z</emphasis>)</meaning>
+</definition>
+<definition id="fs-id3474999"><term>origin</term> <meaning id="fs-id1238864">the region of the prokaryotic chromosome at which replication begins</meaning></definition>
+<definition id="fs-id3063646"><term>septum</term> <meaning id="fs-id2062592">a wall formed between bacterial daughter cells as a precursor to cell separation</meaning></definition>
+</glossary>
+
+</document>

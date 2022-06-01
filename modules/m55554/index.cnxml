@@ -1,0 +1,90 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+
+<title>Passive Transport EnBio</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m55554</md:content-id>
+  <md:title>Passive Transport EnBio</md:title>
+  <md:abstract>By the end of this section, you will be able to:
+<list>
+<item>Explain why and how passive transport occurs</item>
+<item>Understand the processes of osmosis and diffusion</item>
+<item>Define tonicity and describe its relevance to passive transport</item>
+</list></md:abstract>
+  <md:uuid>28e0d3e7-f2db-49ce-a72f-b15b9a23b3b7</md:uuid>
+</metadata>
+
+<content>
+<para id="fs-idp58622528">Plasma membranes must allow certain substances to enter and leave a cell, while preventing harmful material from entering and essential material from leaving. In other words, plasma membranes are <term>selectively permeable</term>—they allow some substances through but not others. If they were to lose this selectivity, the cell would no longer be able to sustain itself, and it would be destroyed. Some cells require larger amounts of specific substances than do other cells; they must have a way of obtaining these materials from the extracellular fluids. This may happen passively, as certain materials move back and forth, or the cell may have special mechanisms that ensure transport. </para><para id="fs-idp70714800">The most direct forms of membrane transport are passive. <term>Passive transport</term> is a naturally occurring phenomenon and does not require the cell to expend energy to accomplish the movement. In passive transport, substances move from an area of higher concentration to an area of lower concentration in a process called diffusion. A physical space in which there is a different concentration of a single substance is said to have a <term>concentration gradient</term>.</para>
+<section id="fs-idp161276592">
+<title>Diffusion</title>
+<para id="fs-idm73792032"><term>Diffusion</term> is a passive process of transport. A single substance tends to move from an area of high concentration to an area of low concentration until the concentration is equal across the space. You are familiar with diffusion of substances through the air. For example, think about someone opening a bottle of perfume in a room filled with people. The perfume is at its highest concentration in the bottle and is at its lowest at the edges of the room. The perfume vapor will diffuse, or spread away, from the bottle, and gradually, more and more people will smell the perfume as it spreads. Materials move within the cell’s cytosol by diffusion, and certain materials move through the plasma membrane by diffusion (<link target-id="fig-ch03_05_01" document=""/>). Diffusion expends no energy. Rather the different concentrations of materials in different areas are a form of potential energy, and diffusion is the dissipation of that potential energy as materials move down their concentration gradients, from high to low.</para>
+<figure id="fig-ch03_05_01" class="  "><media id="fs-idm69179120" alt="The left part of this illustration shows a substance on one side of a membrane only. The middle part shows that, after some time, some of the substance has diffused across the plasma membrane. The right part shows that, after more time, an equal amount of the substance is on each side of the membrane.">
+<image mime-type="image/jpg" src="../../media/Figure_03_05_01.jpg" width="475"/>
+</media>
+
+<caption>Diffusion through a permeable membrane follows the concentration gradient of a substance, moving the substance from an area of high concentration to one of low concentration. (credit: modification of work by Mariana Ruiz Villarreal)</caption></figure><note id="fs-idm44192000" class="interactive non-majors"><label/><title>Concept in Action</title>
+<media id="fs-idm49034976" alt="QR Code representing a URL">
+<image mime-type="image/png" src="../../media/passive_trnsprt.png" width="120"/>
+</media>
+<para id="fs-idp114686800">For an animation of the diffusion process in action, view <link window="new" url="http://openstaxcollege.org/l/passive_trnsprt">this short video</link> on cell membrane transport.</para>
+</note></section>
+<section id="fs-idp97923296">
+<title>Osmosis</title>
+<para id="fs-idm17969952"><term>Osmosis</term> is the diffusion of water through a semipermeable membrane according to the concentration gradient of water across the membrane. Whereas diffusion transports material across membranes and within cells, osmosis transports <emphasis effect="italics">only water</emphasis> across a membrane and the membrane limits the diffusion of solutes in the water. Osmosis is a special case of diffusion. Water, like other substances, moves from an area of higher concentration to one of lower concentration. Imagine a beaker with a semipermeable membrane, separating the two sides or halves (<link target-id="fig-ch03_05_02" document=""/>). On both sides of the membrane, the water level is the same, but there are different concentrations on each side of a dissolved substance, or <term>solute</term>, that cannot cross the membrane. If the volume of the water is the same, but the concentrations of solute are different, then there are also different concentrations of water, the solvent, on either side of the membrane.</para>
+<figure id="fig-ch03_05_02">
+<media id="fs-idm70442528" alt="Two beakers are shown, each divided into left and right halves by a semipermeable membrane. The first beaker has the same amount of water on both sides, but more solute in the water on the right side of the membrane and less solute in the water on the left side. In the second beaker, the water has moved from the left side of the membrane to the right side, making the solute concentration the same on both sides, but the water level much lower on the left side.">
+<image mime-type="image/jpg" src="../../media/Figure_03_05_02.jpg" width="400"/>
+</media>
+<caption>In osmosis, water always moves from an area of higher concentration (of water) to one of lower concentration (of water). In this system, the solute cannot pass through the selectively permeable membrane.</caption>
+</figure>
+<para id="fs-idm66021008">A principle of diffusion is that the molecules move around and will spread evenly throughout the medium if they can. However, only the material capable of getting through the membrane will diffuse through it. In this example, the solute cannot diffuse through the membrane, but the water can. Water has a concentration gradient in this system. Therefore, water will diffuse down its concentration gradient, crossing the membrane to the side where it is less concentrated. This diffusion of water through the membrane—osmosis—will continue until the concentration gradient of water goes to zero. Osmosis proceeds constantly in living systems.</para>
+<note id="fs-idm19927952" class="interactive non-majors"><label/><title>Concept in Action</title>
+<media id="fs-idm135516480" alt="QR Code representing a URL">
+<image mime-type="image/png" src="../../media/passive_trnsprt.png" width="120"/>
+</media>
+<para id="fs-idp39016320">Watch this <link window="new" url="http://openstaxcollege.org/l/passive_trnsprt">video</link> that illustrates diffusion in hot versus cold solutions.</para>
+</note></section>
+<section id="fs-idm49057648" class="summary">
+<title>Section Summary</title><para id="fs-idp113650960">The passive forms of transport, diffusion and osmosis, move material of small molecular weight. Substances diffuse from areas of high concentration to areas of low concentration, and this process continues until the substance is evenly distributed in a system. In solutions of more than one substance, each type of molecule diffuses according to its own concentration gradient. Many factors can affect the rate of diffusion, including concentration gradient, the sizes of the particles that are diffusing, and the temperature of the system.</para>
+<para id="fs-idm53417824">In living systems, diffusion of substances into and out of cells is mediated by the plasma membrane. Some materials diffuse readily through the membrane, but others are hindered, and their passage is only made possible by protein channels and carriers. The chemistry of living things occurs in aqueous solutions, and balancing the concentrations of those solutions is an ongoing problem. In living systems, diffusion of some substances would be slow or difficult without membrane proteins.</para>
+</section>
+</content>
+<glossary>
+<definition id="fs-idp53733360">
+<term>concentration gradient</term> <meaning id="fs-idp61633024">an area of high concentration across from an area of low concentration</meaning>
+</definition>
+<definition id="fs-idp66530128">
+<term>diffusion</term> <meaning id="fs-idm20801520">a passive process of transport of low-molecular weight material down its concentration gradient</meaning>
+</definition>
+<definition id="fs-idp25944832">
+<term>facilitated transport</term> <meaning id="fs-idm79315312">a process by which material moves down a concentration gradient (from high to low concentration) using integral membrane proteins</meaning>
+</definition>
+<definition id="fs-idm47134080">
+<term>hypertonic</term> <meaning id="fs-idm84703920">describes a solution in which extracellular fluid has higher osmolarity than the fluid inside the cell</meaning>
+</definition>
+<definition id="fs-idp131979664">
+<term>hypotonic</term> <meaning id="fs-idp110319072">describes a solution in which extracellular fluid has lower osmolarity than the fluid inside the cell</meaning>
+</definition>
+<definition id="fs-idm8912112">
+<term>isotonic</term> <meaning id="fs-idp19590288">describes a solution in which the extracellular fluid has the same osmolarity as the fluid inside the cell</meaning>
+</definition>
+<definition id="fs-idp58331488">
+<term>osmolarity</term> <meaning id="fs-idp113692032">the total amount of substances dissolved in a specific amount of solution</meaning>
+</definition>
+<definition id="fs-idp26021680">
+<term>osmosis</term> <meaning id="fs-idm66667776">the transport of water through a semipermeable membrane from an area of high water concentration to an area of low water concentration across a membrane</meaning>
+</definition>
+<definition id="fs-idm45299872">
+<term>passive transport</term> <meaning id="fs-idp57484160">a method of transporting material that does not require energy</meaning>
+</definition>
+<definition id="fs-idm6193392">
+<term>selectively permeable</term> <meaning id="fs-idp30244816">the characteristic of a membrane that allows some substances through but not others</meaning>
+</definition>
+<definition id="fs-idm19794608">
+<term>solute</term> <meaning id="fs-idp22704288">a substance dissolved in another to form a solution</meaning>
+</definition>
+<definition id="fs-idm70985264">
+<term>tonicity</term> <meaning id="fs-idm95202976">the amount of solute in a solution.</meaning>
+</definition>
+</glossary>
+</document>

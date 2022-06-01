@@ -1,0 +1,52 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+
+<title>How Cells Are Studied EnBio</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m55537</md:content-id>
+  <md:title>How Cells Are Studied EnBio</md:title>
+  <md:abstract>By the end of this section, you will be able to:
+<list>
+<item>Describe the roles of cells in organisms</item>
+<item>Summarize the cell theory</item>
+</list></md:abstract>
+  <md:uuid>c037241c-fe22-490e-8809-99869c2310cf</md:uuid>
+</metadata>
+
+<content>
+<para id="fs-idp121187792">A cell is the smallest unit of a living thing. A living thing, like you, is called an organism. Thus, cells are the basic building blocks of all organisms.</para>
+<para id="fs-idp93782784">In multicellular organisms, several cells of one particular kind interconnect with each other and perform shared functions to form tissues  (for example, muscle tissue, connective tissue, and nervous tissue), several tissues combine to form an organ (for example, stomach, heart, or brain), and several organs make up an organ system (such as the digestive system, circulatory system, or nervous system). Several systems functioning together form an organism (such as an elephant, for example).</para><para id="fs-idp113134400">There are many types of cells, and all are grouped into one of two broad categories: prokaryotic and eukaryotic. Animal cells, plant cells, fungal cells, and protist cells are classified as eukaryotic, whereas bacteria and archaea cells are classified as prokaryotic. Before discussing the criteria for determining whether a cell is prokaryotic or eukaryotic, let us first examine how biologists study cells.</para>
+<section id="fs-idp18125392">
+<title>Microscopy</title>
+<para id="fs-idp18948384">Cells vary in size. With few exceptions, individual cells are too small to be seen with the naked eye, so scientists use microscopes to study them. A <term>microscope</term> is an instrument that magnifies an object. Most images of cells are taken with a microscope and are called micrographs.</para>
+<section id="fs-idm16637120">
+<title>Light Microscopes</title>
+<para id="fs-idp108612400">Light microscopes commonly used in the undergraduate college laboratory magnify up to approximately 400 times. Two parameters that are important in microscopy are magnification and resolving power. Magnification is the degree of enlargement of an object. Resolving power is the ability of a microscope to allow the eye to distinguish two adjacent structures as separate; the higher the resolution, the closer those two objects can be, and the better the clarity and detail of the image. When oil immersion lenses are used, magnification is usually increased to 1,000 times for the study of smaller cells, like most prokaryotic cells. </para><note id="fs-idp118198192" class="interactive non-majors"><label/><title>Concept in Action</title>
+<media id="fs-idp14075072" alt="QR Code representing a URL">
+<image mime-type="image/png" src="../../media/cell_sizes2.png" width="120"/>
+</media>
+<para id="fs-idm15412240">For another perspective on cell size, try the <link window="new" url="http://openstaxcollege.org/l/cell_sizes2">HowBig</link> interactive.</para>
+</note><para id="fs-idp263638992">A second type of microscope used in laboratories is the dissecting microscope (<link target-id="fig-ch03_01_01ab" document=""/><emphasis effect="bold">b</emphasis>). These microscopes have a lower magnification (20 to 80 times the object size) than light microscopes and can provide a three-dimensional view of the specimen. Thick objects can be examined with many components in focus at the same time. </para><figure id="fig-ch03_01_01ab">
+<media id="fs-idp53987872" alt="Part a: This light microscope has binocular lenses and three objective lenses. The sample stage is directly beneath the objective lens. The light microscope sits on a tabletop. Part b: The dissecting microscope has binocular eyepieces, one objective lens, and light sources from both above and below the sample stage. There is room on the stage for a three-dimensional specimen.">
+<image mime-type="image/jpg" src="../../media/Figure_03_01_01ab.jpg" width="550"/>
+</media>
+<caption>(a) Most light microscopes used in a college biology lab can magnify cells up to approximately 400 times. (b) Dissecting microscopes have a lower magnification than light microscopes and are used to examine larger objects, such as tissues.</caption>
+</figure>
+</section>
+</section>
+<section id="fs-idp14699904">
+<title>Cell Theory</title>
+<para id="fs-idp76155936">By the late 1830s, botanist Matthias Schleiden and zoologist Theodor Schwann were studying tissues and proposed the <term>unified cell theory</term>, which states that all living things are composed of one or more cells, that the cell is the basic unit of life, and that all new cells arise from existing cells. These principles still stand today.</para>
+</section>
+<section id="fs-idp80477168" class="summary">
+<title>Section Summary</title><para id="fs-idp1012432">A cell is the smallest unit of life. Most cells are so small that they cannot be viewed with the naked eye. Therefore, scientists must use microscopes to study cells. Electron microscopes provide higher magnification, higher resolution, and more detail than light microscopes. The unified cell theory states that all organisms are composed of one or more cells, the cell is the basic unit of life, and new cells arise from existing cells.</para>
+</section>
+</content>
+<glossary>
+<definition id="fs-idp152323984">
+<term>microscope</term> <meaning id="fs-idp5308080">the instrument that magnifies an object</meaning>
+</definition>
+<definition id="fs-idp44706240">
+<term>unified cell theory</term> <meaning id="fs-idm15293648">the biological concept that states that all organisms are composed of one or more cells, the cell is the basic unit of life, and new cells arise from existing cells</meaning>
+</definition>
+</glossary>
+</document>

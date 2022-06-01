@@ -1,0 +1,34 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+
+<title>ATP EnBio</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m55557</md:content-id>
+  <md:title>ATP EnBio</md:title>
+  <md:abstract>By the end of this section, you will be able to:
+<list>
+<item>Explain how ATP is used by the cell as an energy source</item>
+</list></md:abstract>
+  <md:uuid>695e478a-6067-4e92-9f09-5fdb0175fccc</md:uuid>
+</metadata>
+
+<content>
+<para id="fs-id1206683">Within the cell, where does energy to power chemical reactions come from? The answer lies with an energy-supplying molecule called adenosine triphosphate, or <term>ATP</term>. ATP is a small, relatively simple molecule, but within its bonds contains the potential for a quick burst of energy that can be harnessed to perform cellular work. This molecule can be thought of as the primary energy currency of cells in the same way that money is the currency that people exchange for things they need. ATP is used to power the majority of energy-requiring cellular reactions.</para><section id="fs-id2148251">
+<title>ATP in Living Systems</title>
+<para id="fs-id2078455">When ATP is broken down, usually by the removal of its terminal phosphate group, energy is released. This energy is used to do work by the cell, usually by the binding of the released phosphate to another molecule, thus activating it. For example, in the mechanical work of muscle contraction, ATP supplies energy to move the contractile muscle proteins.</para>
+<section id="fs-id2608580">
+<title>ATP Structure and Function</title>
+<para id="fs-id1433073">At the heart of ATP is a molecule of adenosine monophosphate (AMP), which is composed of an adenine molecule bonded to both a ribose molecule and a single phosphate group (<link target-id="fig-ch04_02_01" document=""/>). Ribose is a five-carbon sugar found in RNA and AMP is one of the nucleotides in RNA. The addition of a second phosphate group to this core molecule results in adenosine <emphasis effect="underline">di</emphasis>phosphate (ADP); the addition of a third phosphate group forms adenosine <emphasis effect="underline">tri</emphasis>phosphate (ATP).  The release of one or two phosphate groups from ATP, a process called hydrolysis, releases energy.</para><figure id="fig-ch04_02_01"><media id="fs-id1456240" alt="This illustration shows the molecular structure of ATP. This molecule is an adenine nucleotide with ribose and a string of three phosphate groups attached to it. The phosphate groups are named alpha, beta, and gamma in order of increasing distance from the ribose sugar to which they are attached.">
+<image mime-type="image/jpg" src="../../media/Figure_04_02_01.jpg" width="380"/>
+</media>
+<caption>The structure of ATP shows the basic components of a two-ring adenine, five-carbon ribose, and three phosphate groups.
+</caption></figure></section>
+</section>
+<section id="fs-id2304686" class="summary"> <title>Section Summary</title><para id="fs-id2408986">ATP functions as the energy currency for cells. It allows cells to store energy briefly and transport it within itself to support endergonic chemical reactions. The structure of ATP is that of an RNA nucleotide with three phosphate groups attached. As ATP is used for energy, a phosphate group is detached, and ADP is produced. Energy derived from glucose catabolism is used to recharge ADP into ATP.</para>
+</section>
+</content>
+
+<glossary>
+<definition id="fs-id1699960"><term>ATP</term> <meaning id="fs-id2360306">(also, adenosine triphosphate) the cell’s energy currency</meaning></definition>
+<definition id="fs-id2168192"><term>glycolysis</term> <meaning id="fs-id2198524">the process of breaking glucose into two three-carbon molecules with the production of ATP and NADH</meaning></definition>
+</glossary>
+</document>
