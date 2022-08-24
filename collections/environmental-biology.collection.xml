@@ -1,284 +1,65 @@
-<col:collection xmlns="http://cnx.rice.edu/collxml" xmlns:col="http://cnx.rice.edu/collxml" xml:lang="en">
+<?xml version="1.0"?>
+<col:collection xmlns="http://cnx.rice.edu/collxml" xmlns:col="http://cnx.rice.edu/collxml" xml:lang="en" authors="David Cole">
   <metadata xmlns:md="http://cnx.rice.edu/mdml" mdml-version="0.5">
-  <md:content-id>col11863</md:content-id>
-  <md:title>Environmental Biology</md:title>
-  
-  
-  <md:license url="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution License 4.0</md:license>
-  <md:language>en</md:language>
-
-  
-
-  
-  
-  
-  
-  
-
-  <md:uuid>5813b290-97de-470d-b000-a2d6d02715a8</md:uuid>
-<md:slug>environmental-biology</md:slug>
-</metadata>
-
+    <md:content-id>col11863</md:content-id>
+    <md:title>Environmental Biology</md:title>
+    <md:license url="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution License 4.0</md:license>
+    <md:language>en</md:language>
+    <md:uuid>5813b290-97de-470d-b000-a2d6d02715a8</md:uuid>
+    <md:slug>environmental-biology</md:slug>
+  </metadata>
   <col:content>
-    
-      <col:module document="m55476"/>
-        
-      
-    
-    
-      <col:module document="m55478"/>
-        
-      
-    
-    
-      <col:module document="m55479"/>
-        
-      
-    
-    
-      <col:module document="m55472"/>
-        
-      
-    
-    
-      <col:module document="m55504"/>
-        
-      
-    
-    
-      <col:module document="m55505"/>
-        
-      
-    
-    
-      <col:module document="m55510"/>
-        
-      
-    
-    
-      <col:module document="m55537"/>
-        
-      
-    
-    
-      <col:module document="m55540"/>
-        
-      
-    
-    
-      <col:module document="m55551"/>
-        
-      
-    
-    
-      <col:module document="m55552"/>
-        
-      
-    
-    
-      <col:module document="m55554"/>
-        
-      
-    
-    
-      <col:module document="m55555"/>
-        
-      
-    
-    
-      <col:module document="m55556"/>
-        
-      
-    
-    
-      <col:module document="m55560"/>
-        
-      
-    
-    
-      <col:module document="m55561"/>
-        
-      
-    
-    
-      <col:module document="m55660"/>
-        
-      
-    
-    
-      <col:module document="m55557"/>
-        
-      
-    
-    
-      <col:module document="m55656"/>
-        
-      
-    
-    
-      <col:module document="m55614"/>
-        
-      
-    
-    
-      <col:module document="m55567"/>
-        
-      
-    
-    
-      <col:module document="m55600"/>
-        
-      
-    
-    
-      <col:module document="m55643"/>
-        
-      
-    
-    
-      <col:module document="m55634"/>
-        
-      
-    
-    
-      <col:module document="m55590"/>
-        
-      
-    
-    
-      <col:module document="m55655"/>
-        
-      
-    
-    
-      <col:module document="m55635"/>
-        
-      
-    
-    
-      <col:module document="m55566"/>
-        
-      
-    
-    
-      <col:module document="m55597"/>
-        
-      
-    
-    
-      <col:module document="m55642"/>
-        
-      
-    
-    
-      <col:module document="m55658"/>
-        
-      
-    
-    
-      <col:module document="m55599"/>
-        
-      
-    
-    
-      <col:module document="m55657"/>
-        
-      
-    
-    
-      <col:module document="m55639"/>
-        
-      
-    
-    
-      <col:module document="m55654"/>
-        
-      
-    
-    
-      <col:module document="m55615"/>
-        
-      
-    
-    
-      <col:module document="m55584"/>
-        
-      
-    
-    
-      <col:module document="m55578"/>
-        
-      
-    
-    
-      <col:module document="m55575"/>
-        
-      
-    
-    
-      <col:module document="m55564"/>
-        
-      
-    
-    
-      <col:module document="m55582"/>
-        
-      
-    
-    
-      <col:module document="m55581"/>
-        
-      
-    
-    
-      <col:module document="m55563"/>
-        
-      
-    
-    
-      <col:module document="m55640"/>
-        
-      
-    
-    
-      <col:module document="m55641"/>
-        
-      
-    
-    
-      <col:module document="m55503"/>
-        
-      
-    
-    
-      <col:module document="m55568"/>
-        
-      
-    
-    
-      <col:module document="m55576"/>
-        
-      
-    
-    
-      <col:module document="m55585"/>
-        
-      
-    
-    
-      <col:module document="m55659"/>
-        
-      
-    
-    
-      <col:module document="m55595"/>
-        
-      
-    
-    
-      <col:module document="m55596"/>
-        
-      
-    
+    <col:module document="m55476"/>
+    <col:module document="m55478"/>
+    <col:module document="m55479"/>
+    <col:module document="m55472"/>
+    <col:module document="m55504"/>
+    <col:module document="m55505"/>
+    <col:module document="m55510"/>
+    <col:module document="m55537"/>
+    <col:module document="m55540"/>
+    <col:module document="m55551"/>
+    <col:module document="m55552"/>
+    <col:module document="m55554"/>
+    <col:module document="m55555"/>
+    <col:module document="m55556"/>
+    <col:module document="m55560"/>
+    <col:module document="m55561"/>
+    <col:module document="m55660"/>
+    <col:module document="m55557"/>
+    <col:module document="m55656"/>
+    <col:module document="m55614"/>
+    <col:module document="m55567"/>
+    <col:module document="m55600"/>
+    <col:module document="m55643"/>
+    <col:module document="m55634"/>
+    <col:module document="m55590"/>
+    <col:module document="m55655"/>
+    <col:module document="m55635"/>
+    <col:module document="m55566"/>
+    <col:module document="m55597"/>
+    <col:module document="m55642"/>
+    <col:module document="m55658"/>
+    <col:module document="m55599"/>
+    <col:module document="m55657"/>
+    <col:module document="m55639"/>
+    <col:module document="m55654"/>
+    <col:module document="m55615"/>
+    <col:module document="m55584"/>
+    <col:module document="m55578"/>
+    <col:module document="m55575"/>
+    <col:module document="m55564"/>
+    <col:module document="m55582"/>
+    <col:module document="m55581"/>
+    <col:module document="m55563"/>
+    <col:module document="m55640"/>
+    <col:module document="m55641"/>
+    <col:module document="m55503"/>
+    <col:module document="m55568"/>
+    <col:module document="m55576"/>
+    <col:module document="m55585"/>
+    <col:module document="m55659"/>
+    <col:module document="m55595"/>
+    <col:module document="m55596"/>
   </col:content>
 </col:collection>
